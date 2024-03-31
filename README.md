@@ -2,4 +2,5 @@ Program ini menggunakan fungsi hitung_kuota_kredit untuk menghitung kuota kredit
 
 
 
-![Uploading Start.jpg…]()
+
+![Screenshot 2024-03-31 203859](https://github.com/Chilo984/Materi-python/assets/149669399/048021e2-4d57-4ae0-b20c-42998f907760)
