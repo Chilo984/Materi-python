@@ -1,0 +1,20 @@
+import random
+
+def game():
+    number = random.randint(1, 10)
+    tebakan = 0
+    percobaan = 1
+
+    while True:
+        tebak = int(input("tebak antara 1 sampai 10: "))
+        tebakan += 1
+
+        if tebak < number:
+            print("rendah nemen!")
+        elif tebak > number:
+            print("tinggi nemen!")
+        else:
+            print(f"selamat! kamu bener dalam {tebakan} tebakan 👍👍")
+            break
+
+game()
